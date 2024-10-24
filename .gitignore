@@ -1,2 +1,10 @@
 *.conf
 !.gitignore
+.pytest_cache
+/__pycache__
+*.log
+*.tmp
+/dist
+.env
+.vscode/
+.idea/
